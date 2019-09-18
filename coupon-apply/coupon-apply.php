@@ -1,4 +1,5 @@
 <?php 
+
 /*
 Plugin Name: Coupon apply
 Description: This plugin is main apply promocode of woocommere.
